@@ -13,7 +13,7 @@
 #'   3, "Sodoff Baldrick", "School of Hard Knocks",
 #'  4, "Anthony Cecil Hogmanay Melchett", "Trinity College, Cambridge"
 #'  )
-# affilliations(x, nooutfile = T)
+#' affilliations(x, nooutfile = T)
 
 #' }
 #' @export

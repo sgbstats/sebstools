@@ -1,6 +1,6 @@
 ## sebstools
 
-A collection of fucntions that I  use sometime
+A collection of functions that I  use sometime
 
 ### afilliations
 
@@ -18,3 +18,6 @@ Negates %in%
 
 Formats p values for tables
 
+### tablemaker
+
+Makes a table for github
