@@ -21,7 +21,7 @@ Calculates eGFR using the CKD-EPI equations
 }
 \examples{
 \dontrun{
-eGFR(creatinine = 100, sex="M", age=40)
-#78.6677
+eGFR(creatinine = 100, sex = "M", age = 40)
+# 78.6677
 }
 }

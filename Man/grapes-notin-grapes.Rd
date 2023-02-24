@@ -7,15 +7,13 @@
 ... \%notin\% ...
 }
 \arguments{
-\item{left}{A vector of values to test against another vector}
-
-\item{right}{The target vector}
+\item{...}{The target vector}
 }
 \value{
 Logical for each values and whether it is in the target vector
 }
 \description{
-The opposite of in
+The opposite of \%in\%
 }
 \examples{
 \dontrun{

@@ -27,11 +27,11 @@ Makes the nice affiliations list at the top of a paper
 \dontrun{
 x <- tibble::tribble(
   ~id, ~name, ~affiliation,
- 1, "Edmund Blackadder", list("University of Life", "School of Hard Knocks", "Kindergarten of Getting the Shit Kicked Out of Me"),
+  1, "Edmund Blackadder", list("University of Life", "School of Hard Knocks", "Kindergarten of Getting the Shit Kicked Out of Me"),
   2, "George Colthurst St. Barleigh", "Trinity College Cambridge",
   3, "Sodoff Baldrick", "School of Hard Knocks",
- 4, "Anthony Cecil Hogmanay Melchett", "Trinity College, Cambridge"
- )
+  4, "Anthony Cecil Hogmanay Melchett", "Trinity College, Cambridge"
+)
 affilliations(x, nooutfile = T)
 }
 }
